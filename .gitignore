@@ -26,8 +26,5 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Generated outputs
-outputs/
-
 # Local data
 Data/
