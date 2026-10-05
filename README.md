@@ -1,5 +1,11 @@
 # Customer Churn Analysis
 
+## 🚀 Live Demo
+
+**[Try the Customer Churn Predictor](https://gloriah-creates-customer-churn-analysis-appapp-xihcgv.streamlit.app/)**
+
+An interactive machine-learning application that predicts customer churn probability based on customer characteristics and service information.
+
 ## Project Overview
 
 Customer churn is a major business problem for subscription-based companies. Understanding which customers are most likely to leave can help businesses prioritize retention efforts and reduce customer loss.
